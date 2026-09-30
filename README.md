@@ -138,7 +138,7 @@ No stack traces or secrets are returned.
 
 ## Time spent
 
-To be completed with the actual time spent before submission.
+Approximately 1 hour 45 minutes.
 
 ## Limits
 
